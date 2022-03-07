@@ -1,0 +1,7 @@
+[auth]
+token=c98338d3aa984f63baff72c344317e45c77f7733fdd848fc8aa76654dc8e9073
+
+[defaults]
+url= https://sentry.io/
+org=ssdmtank
+project=vue-sentry-demo
